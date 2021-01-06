@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/fkNwB3rhQH+qORnS0+PWfurkupGPfWJ+6753vJeLAAU+eZ3lP4HtUzeNXiQFcXyEQa8ahi0YXwmarNtS8GkYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jastr\\source\\repos\\GeometricAlgorithm\\GeometricAlgorithm\\GeometricAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jastr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

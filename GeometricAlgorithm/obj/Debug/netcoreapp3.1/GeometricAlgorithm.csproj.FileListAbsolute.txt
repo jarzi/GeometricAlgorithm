@@ -1,0 +1,9 @@
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\bin\Debug\netcoreapp3.1\GeometricAlgorithm.deps.json
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\bin\Debug\netcoreapp3.1\GeometricAlgorithm.dll
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\bin\Debug\netcoreapp3.1\GeometricAlgorithm.pdb
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\obj\Debug\netcoreapp3.1\GeometricAlgorithm.csprojAssemblyReference.cache
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\obj\Debug\netcoreapp3.1\GeometricAlgorithm.AssemblyInfoInputs.cache
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\obj\Debug\netcoreapp3.1\GeometricAlgorithm.AssemblyInfo.cs
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\obj\Debug\netcoreapp3.1\GeometricAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\obj\Debug\netcoreapp3.1\GeometricAlgorithm.dll
+C:\Users\jastr\source\repos\GeometricAlgorithm\GeometricAlgorithm\obj\Debug\netcoreapp3.1\GeometricAlgorithm.pdb

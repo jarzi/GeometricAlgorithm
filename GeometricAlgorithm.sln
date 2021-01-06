@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricAlgorithm", "GeometricAlgorithm\GeometricAlgorithm.csproj", "{D2C36702-8322-4875-A204-FB030F5DE757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C36702-8322-4875-A204-FB030F5DE757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C36702-8322-4875-A204-FB030F5DE757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C36702-8322-4875-A204-FB030F5DE757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C36702-8322-4875-A204-FB030F5DE757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1866FA89-CA05-4512-AEB7-981002C596B1}
+	EndGlobalSection
+EndGlobal
